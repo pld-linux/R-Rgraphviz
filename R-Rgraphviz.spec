@@ -2,12 +2,12 @@
 
 Summary:	Plotting capabilities for R graph objects
 Name:		R-%{packname}
-Version:	2.2.1
+Version:	2.6.0
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	dfb5ee6dd2cc11f08ef720fbf237e499
+# Source0-md5:	8d7c6d1816ddcdc403c32a972046ebd7
 URL:		http://bioconductor.org/packages/release/bioc/html/Rgraphviz.html
 BuildRequires:	R-graph
 BuildRequires:	R
